@@ -17,3 +17,5 @@
 
 * main flask server code is in app/app.py,
 * db/init.sql contains the sql commands that will run once the mysql image starts
+
+## Video Demo - [Link](https://youtu.be/ooeICpepecE)
